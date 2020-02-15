@@ -1,5 +1,5 @@
 {
-  guide: { 
+  "guide": { 
   "selector": "#abc",
   "id": 1 
   }
